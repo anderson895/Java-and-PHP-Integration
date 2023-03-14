@@ -1,0 +1,8 @@
+fishball,10.0,910
+siomai,15.0,847
+burger,50.0,64
+siopao,30.0,996
+nuggets,15.0,940
+kwekwek,13.0,1994
+kikiyam,2.0,975
+chickenJoy,10.0,9913

@@ -1,0 +1,5 @@
+admin:joshua:admin
+costumer1:password:user
+costumer2:password:user
+delivery1:password:delivery
+delivery2:password:delivery
